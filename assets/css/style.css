@@ -16,7 +16,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #FB8500;
+  color: #fb8500;
   transition: 0.5s;
 }
 
@@ -67,7 +67,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #FB8500;
+  background: #fb8500;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -147,7 +147,7 @@ h6 {
 #hero h2 span {
   color: #fff;
   transition: 0.3s;
-  border-bottom: 2px solid #FB8500;
+  border-bottom: 2px solid #fb8500;
 }
 
 @media (max-width: 768px) {
@@ -179,8 +179,8 @@ h6 {
 }
 
 #hero .btn-get-started {
-  background: #FB8500;
-  border: 2px solid #FB8500;
+  background: #fb8500;
+  border: 2px solid #fb8500;
   color: #fff;
 }
 
@@ -196,8 +196,8 @@ h6 {
 }
 
 #hero .btn-services:hover {
-  background: #FB8500;
-  border: 2px solid #FB8500;
+  background: #fb8500;
+  border: 2px solid #fb8500;
 }
 
 /*--------------------------------------------------------------
@@ -294,7 +294,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover > a {
-  color: #FB8500;
+  color: #fb8500;
 }
 
 .navbar .dropdown ul {
@@ -329,7 +329,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  color: #FB8500;
+  color: #fb8500;
 }
 
 .navbar .dropdown:hover > ul {
@@ -421,7 +421,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover > a {
-  color: #FB8500;
+  color: #fb8500;
 }
 
 .navbar-mobile .getstarted {
@@ -455,7 +455,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover > a {
-  color: #FB8500;
+  color: #fb8500;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -487,7 +487,7 @@ section {
 .section-title-divider {
   width: 50px;
   height: 3px;
-  background: #FB8500;
+  background: #fb8500;
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -550,14 +550,16 @@ section {
 
 #services .service-item {
   margin-bottom: 20px;
+  width: 30vw;
+  margin-left: auto;
 }
 
 #services .service-icon {
   float: left;
-  background: #FB8500;
+  background: #fb8500;
   border-radius: 50%;
   transition: 0.5s;
-  border: 1px solid #FB8500;
+  border: 1px solid #fb8500;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -576,7 +578,7 @@ section {
 }
 
 #services .service-item:hover .service-icon i {
-  color: #FB8500;
+  color: #fb8500;
 }
 
 #services .service-title {
@@ -635,8 +637,8 @@ section {
 }
 
 #subscribe .subscribe-btn:hover {
-  background: #FB8500;
-  border: 2px solid #FB8500;
+  background: #fb8500;
+  border: 2px solid #fb8500;
 }
 
 /* Portfolio Section
@@ -667,7 +669,7 @@ section {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #FB8500;
+  color: #fb8500;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -715,7 +717,7 @@ section {
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #FB8500;
+  color: #fb8500;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -750,14 +752,14 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #FB8500;
+  border: 1px solid #fb8500;
 }
 
 .portfolio-details
   .portfolio-details-slider
   .swiper-pagination
   .swiper-pagination-bullet-active {
-  background-color: #FB8500;
+  background-color: #fb8500;
 }
 
 .portfolio-details .portfolio-info {
@@ -823,7 +825,7 @@ section {
 
 #testimonials .profile h4 {
   font-weight: 700;
-  color: #FB8500;
+  color: #fb8500;
   margin-bottom: 5px;
 }
 
@@ -898,7 +900,7 @@ section {
 }
 
 #team .member .social a:hover {
-  color: #FB8500;
+  color: #fb8500;
 }
 
 #team .member .social i {
@@ -919,7 +921,7 @@ section {
 
 #contact .info i {
   font-size: 32px;
-  color: #FB8500;
+  color: #fb8500;
   float: left;
   line-height: 0;
 }
@@ -979,11 +981,11 @@ section {
 
 #contact .php-email-form input::focus,
 #contact .php-email-form textarea::focus {
-  background-color: #FB8500;
+  background-color: #fb8500;
 }
 
 #contact .php-email-form button[type="submit"] {
-  background: #FB8500;
+  background: #fb8500;
   border: 0;
   padding: 10px 24px;
   color: #fff;
